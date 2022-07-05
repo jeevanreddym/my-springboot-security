@@ -1,6 +1,6 @@
 # spring security:
 
-Authentication can be done against any datasource like LDAP, Active directory etc & once the user is verified as valid then the 
+Authentication can be done against any Identity-Provider like LDAP, Active directory etc & once the user is verified as valid then the 
 Principle contains the UserDetails along with the Authorities (Roles or Permissions i.e ADMIN, USER etc).
 
 1) JWT (JSON web token) - for MicroService to MicroService Authorization.
