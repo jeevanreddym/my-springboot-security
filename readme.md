@@ -11,5 +11,5 @@ JWT token - contains header, payload & signature. This token containing the info
 
 
 
-Single Sign-On (SSO) is a process that enables a user to access multiple applications (the service providers) by logging in once on an authentication server (the identity provider).
+# Single Sign-On (SSO) is a process that enables a user to access multiple applications (the service providers) by logging in once on an authentication server (the identity provider).
 ![image](https://user-images.githubusercontent.com/26168295/177410774-41525b76-12d5-4e22-ad54-59e88b7c1430.png)
