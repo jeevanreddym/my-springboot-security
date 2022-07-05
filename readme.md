@@ -19,7 +19,7 @@ Many applications are using this authentication system to allow users to login t
 Google itself enables its users to login with SSO to the multiple applications it provides - the service providers: Gmail, Youtube... - thanks to a unique central authentication server: Google Account - the identity provider.
 
 
-#SSO Flow
+# SSO Flow
 To be authenticated through SSO on a service provider such as Gmail, one need to be logged in on the identity provider (Google Account), which provides a password-based authentication. Having that in mind, here is what the user journey might look like. users have to enter their credentials only once to be authenticated on 2 independent applications.
 
 
